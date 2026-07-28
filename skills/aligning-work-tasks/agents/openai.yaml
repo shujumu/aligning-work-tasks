@@ -1,0 +1,4 @@
+interface:
+  display_name: "任务对齐"
+  short_description: "把模糊职场任务转成可执行、可验证、可安全汇报的工作交接"
+  default_prompt: "使用 $aligning-work-tasks 对齐这项工作，指出关键信息缺口并生成可执行、可验证的交接结果。"
